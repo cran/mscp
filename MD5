@@ -1,0 +1,8 @@
+08d80ac960b22da31650c0811aaa48fe *DESCRIPTION
+9de35d45a7c7b450719ca12e1cb484d1 *NAMESPACE
+324bdff7bced79e5845cf91cf71be5e3 *R/mscp.r
+be2bf9d083dacaf90ed44eceb6f654d6 *R/plot.mscp.r
+c74b79a55f408538d9b5af2d3e193d01 *R/summary.mscp.r
+63683624303f2522bf3f073eaca0531c *man/mscp.Rd
+4057efd8a8d514e2ed8d34895c6d6c91 *man/plot.mscp.Rd
+0b858198a687824551fb831c88e69940 *man/summary.mscp.Rd
